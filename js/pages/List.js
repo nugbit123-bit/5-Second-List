@@ -125,7 +125,7 @@ export default {
                     </p>
                     <p>
                     Levels must be made for the list
-                    <p>
+                    </p>
                 </div>
             </div>
         </main>
