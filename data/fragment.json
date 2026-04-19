@@ -1,0 +1,18 @@
+{
+    "id": 138594107,
+    "name": "fragment",
+    "author": "Vinkii",
+    "creators": ["Vinkii"],
+    "verifier": "Vinkii",
+    "verification": "https://youtu.be/6vjl9uEbY8Q",
+    "percentToQualify": 100,
+    "password": "0",
+    "records": [
+        {
+            "user": "Nugbit",
+            "link": "https://youtu.be/KOWwvItq9pE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
