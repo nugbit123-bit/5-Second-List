@@ -5,7 +5,7 @@
     "creators": ["Bamboozledash"],
     "verifier": "Bamboozledash",
     "verification": "https://youtu.be/cThvoq7U_iU",
-    "percentToQualify": "100",
+    "percentToQualify": 100,
     "password": "0",
     "records": [
         {
