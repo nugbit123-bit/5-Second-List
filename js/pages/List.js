@@ -118,7 +118,7 @@ export default {
                         Do not use secret ways
                     </p>
                     <p>
-                        Have gameplay that is original and NOT copied from elsewhere``
+                        Have gameplay that is original and NOT copied from elsewhere
                     </p>
                     <p>
                         Levels must be 5 seconds, no more and no less
