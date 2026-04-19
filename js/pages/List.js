@@ -124,7 +124,7 @@ export default {
                         Levels must be 5 seconds, no more and no less
                     </p>
                     <p>
-                    Levels must be made for the list
+                        Levels must be made for the list
                     </p>
                 </div>
             </div>
