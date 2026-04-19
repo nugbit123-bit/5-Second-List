@@ -1,0 +1,24 @@
+{
+    "id": 131680069,
+    "name": "Fraction",
+    "author": "Bamboozledash",
+    "creators": ["Bamboozledash"],
+    "verifier": "Bamboozledash",
+    "verification": "https://youtu.be/cThvoq7U_iU",
+    "percentToQualify": "100",
+    "password": "",
+    "records": [
+        {
+            "user": "Vinkii",
+            "link": "https://www.youtube.com/watch?v=KBb_sCbHyKs&feature=youtu.be",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Nugbit",
+            "link": "https://youtu.be/hiY-B0XhubE",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
