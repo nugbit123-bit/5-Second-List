@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=s93jnq-46mI",
             "percent": 100,
             "hz": 480
+         },
+                {
+            "user": "BabyNate",
+            "link": "https://youtu.be/-LmGR227YmA?si=humt0JlhY4YN7IaU",
+            "percent": 100,
+            "hz": 240
          }
     ]
 }
