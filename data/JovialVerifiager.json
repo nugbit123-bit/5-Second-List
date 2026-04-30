@@ -1,0 +1,18 @@
+{
+    "id": 139355999,
+    "name": "JovialVerifiager",
+    "author": "Nugbit",
+    "creators": ["Nugbit"],
+    "verifier": "JovialRavager",
+    "verification": "https://youtu.be/BQmu9kqgmOk",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+                {
+            "user": "Nugbit",
+            "link": "https://youtu.be/vepATsPGRjQ",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
